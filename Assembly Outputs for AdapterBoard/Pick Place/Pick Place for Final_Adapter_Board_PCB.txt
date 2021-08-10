@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\hkido\OneDrive - NASA\Desktop\Project Outputs for Free Documents\Pick Place\Pick Place for Final_Adapter_Board_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/08/21
+Time:       12:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer    Footprint     Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                                               
+F3         Comment         TopLayer Fiducial      140.0810     34.9250      0        ""                                                                                                                                                        
+F2         Comment         TopLayer Fiducial      46.8630      35.0520      0        ""                                                                                                                                                        
+F1         Comment         TopLayer Fiducial      47.3710      112.1410     0        ""                                                                                                                                                        
+R9         M55342H11B100DR TopLayer R0402         85.8774      53.8480      0        Resistor                                                                                                                                                  
+R8         M55342H11B100DR TopLayer R0402         85.8774      60.5790      0        Resistor                                                                                                                                                  
+R7         CH0402-150RGFPA TopLayer R0402         80.0100      57.4294      90       Resistor                                                                                                                                                  
+R6         M55342H11B100DR TopLayer R0402         85.8774      69.3420      0        Resistor                                                                                                                                                  
+R5         M55342H11B100DR TopLayer R0402         85.7504      77.0890      0        Resistor                                                                                                                                                  
+R4         CH0402-150RGFPA TopLayer R0402         80.0100      73.1520      90       Resistor                                                                                                                                                  
+R3         M55342H11B100DR TopLayer R0402         85.7504      89.6620      0        Resistor                                                                                                                                                  
+R2         M55342H11B100DR TopLayer R0402         85.7250      96.0120      0        "Resistor, 100Ohms"                                                                                                                                       
+R1         CH0402-150RGFPA TopLayer R0402         79.7814      92.7100      90       Resistor                                                                                                                                                  
+P1         MC-LPC-10       TopLayer MC-LPC-10     122.6330     74.3260      90       "MC-LPC-10, FMC Low-pin count connector, lead free, 160 I/Os, male, 10 mm mated stack height"                                                             
+CN1        20682-030E-02   TopLayer 20682-030E-02 56.7555      77.0630      270      "I-PEX Connector Receptacle. 0.4 mm pitch, Horizontal mating type Micro-coaxial connector with EMI shielding cover and mechanical lock. MIPI-Compatible." 
