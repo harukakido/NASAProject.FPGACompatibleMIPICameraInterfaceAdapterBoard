@@ -1,0 +1,12 @@
+Fabrication Outputs: https://www.altium.com/documentation/altium-designer/ipc-2581-support-ad
+
+"The IPC-2581 standard is officially titled ‘Generic Requirements for Printed Board Assembly Products Manufacturing Description Data 
+and Transfer Methodology’ and offers an XML-based single file format that incorporates a rich range of board fabrication data - 
+from layer stackup details though to full pad/routing/component information, and the Bill Of Materials (BOM)."
+
+1. Fabrication ODB
+2. Gerber Files
+3. NC Drill Files
+4. Test Point Report
+5. IPC-2581 > PCB Document
+
