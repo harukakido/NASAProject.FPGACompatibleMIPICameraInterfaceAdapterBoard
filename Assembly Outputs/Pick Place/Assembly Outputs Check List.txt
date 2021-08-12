@@ -1,0 +1,6 @@
+Assembly Outputs: https://resources.altium.com/p/generating-outputs-for-assemblers 
+
+1. Draftsman Assembly Drawing (.PCBDwf)
+2. Pick and Place Files (.txt and .csv) > .csv as compressed zip file 
+3. PDF3D
+
